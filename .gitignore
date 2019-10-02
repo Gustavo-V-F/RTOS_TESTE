@@ -42,6 +42,9 @@
 *.ioc
 .mxproject
 
+# VSCode project files
+.vscode/
+
 # Vagrant directory
 .vagrant/
 
