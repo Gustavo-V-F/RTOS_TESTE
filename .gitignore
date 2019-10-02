@@ -40,6 +40,7 @@
 
 # CubeMX project files
 *.ioc
+.mxproject
 
 # Vagrant directory
 .vagrant/
