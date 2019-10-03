@@ -45,6 +45,9 @@
 # VSCode project files
 .vscode/
 
+# Openocd configuration files
+*.cfg
+
 # Vagrant directory
 .vagrant/
 
